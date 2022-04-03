@@ -7,3 +7,9 @@
 言い訳しても得るものは何もありません。まずは手を動かしてみましょう。"<br>
 
 ![image](https://user-images.githubusercontent.com/74296872/161412344-b83d7434-89ee-4744-882c-3882242a7f07.png)
+
+## 参考書
+本書はverilog HDLの記述方法について一定の前提知識があるものとしてプロジェクトが進行する。<br>
+同著の[『改訂 入門Verilog HDL記述』小林優](https://www.cqpub.co.jp/hanbai/books/33/33981.htm)の内容によりverilogの記述知識を補完することができるので大変役に立っている。
+
+![image](https://user-images.githubusercontent.com/74296872/161412920-24ec0acc-9fd8-45b2-9cbc-da836efc9073.png)
